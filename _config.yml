@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://ggentili.github.io/up22ag/
+baseurl: /
 
 # Site settings
-title: Awesome Title
+title: Unità Pastorale 22
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Unità Pastorale 22 - Ponte Valleceppi, Pretola, Sant'Egidio-Lidarno - UP della Archidiocesi Perugia Città della Pieve."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Santa Maria Maddalena
   pic: 1
-  position: Lead Designer
+  position: in Ponte Valleceppi
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: San Nicolò
   pic: 2
-  position: Lead Marketer
+  position: in Pretola
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Sant'Egidio
   pic: 3
-  position: Lead Developer
+  position: in Sant'Egidio
   social:
     - title: twitter
       url: #
@@ -49,21 +49,14 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/ggentili
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Ponte Valleceppi - Via Bologna, 35 - Perugia - 0756920188
+  - line: Ponte Valleceppi - Via Romagna, 19 - Perugia - 0756920857
+  - line: Sant'Egidio - Via Ortolana, 9 - Perugia - 0756920273
 
 # Build settings
 markdown: kramdown
